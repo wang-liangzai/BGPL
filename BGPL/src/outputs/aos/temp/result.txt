@@ -1,0 +1,48 @@
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.94 recall: 59.30 F1 = 62.89
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.94 recall: 59.30 F1 = 62.89
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.88 recall: 59.12 F1 = 62.76
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.94 recall: 59.30 F1 = 62.89
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.94 recall: 59.30 F1 = 62.89
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.88 recall: 59.12 F1 = 62.76
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.81 recall: 58.93 F1 = 62.62
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.88 recall: 58.75 F1 = 62.55
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.52 recall: 56.72 F1 = 61.23
+seed: 5, beam: 1, constrained: True
+test vote precision: 67.56 recall: 55.62 F1 = 61.01
+seed: 5, beam: 1, constrained: True
+test vote precision: 67.78 recall: 52.30 F1 = 59.04
+seed: 5, beam: 1, constrained: True
+test vote precision: 70.29 recall: 48.80 F1 = 57.61
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.81 recall: 58.93 F1 = 62.62
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.94 recall: 59.30 F1 = 62.89
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.94 recall: 59.30 F1 = 62.89
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.94 recall: 59.30 F1 = 62.89
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.88 recall: 59.12 F1 = 62.76
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.81 recall: 58.93 F1 = 62.62
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.88 recall: 58.75 F1 = 62.55
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.52 recall: 56.72 F1 = 61.23
+seed: 5, beam: 1, constrained: True
+test vote precision: 67.56 recall: 55.62 F1 = 61.01
+seed: 5, beam: 1, constrained: True
+test vote precision: 67.78 recall: 52.30 F1 = 59.04
+seed: 5, beam: 1, constrained: True
+test vote precision: 70.29 recall: 48.80 F1 = 57.61
+seed: 5, beam: 1, constrained: True
+test vote precision: 66.81 recall: 58.93 F1 = 62.62
